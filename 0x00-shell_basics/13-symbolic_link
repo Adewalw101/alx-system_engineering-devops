@@ -1,3 +1,2 @@
 #!/bin/bash
-ln -s /bin/ls _ls_
-No 13
+ln -s /bin/ls _ls_No 13
