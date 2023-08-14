@@ -1,6 +1,6 @@
-https://user-images.githubusercontent.com/113416881/260500399-0a804491-ff9c-44e7-883d-0f77f5cc0fa4.png
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nsolve.com%2Fwhat-is-the-ncall-api%2F&psig=AOvVaw2XZf3qMM2ZPZJl-ccZxSE3&ust=1692114589360000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODBvpnA3IADFQAAAAAdAAAAABAE
 
-# 0x1A. Application server
+##Application server
 
 ## Background Context
 Your web infrastructure is already serving web pages via Nginx that you installed in your first web stack project. While a web server can also serve dynamic content, this task is usually given to an application server. In this project you will add this piece to your infrastructure, plug it to your Nginx and make is serve your Airbnb clone project.
